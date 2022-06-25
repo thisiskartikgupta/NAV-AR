@@ -10,6 +10,10 @@
 
 ## How We built it
 ###### We built Nav-AR by use of SLAM i.e., Simultaneous Localization and Mapping, a computational technique that involves the task of constructing an internal map of an unknown area whilst keeping track of its position inside the area. Next we rendered the map and made use of A* pathfinding algorithm for finding shortest path. To deliver a highly interactive  Augmented Reality Experience, we used Unity Engine and Google ARCore. Lastly we made use of a QR code scan mechanism for calibration and localisation purposes.
+
+## Installation Instructions :
+##### [For detailed instructions.. click here](https://github.com/thisiskartikgupta/NAV-AR/blob/main/INSTRUCTIONS_TO_ACCESS.md)
+
 ### Our Team built NAV-AR using  :
 <ul>
   <li> <b>Unity</b> </li>
