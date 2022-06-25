@@ -25,7 +25,7 @@
 ## What's next for "NAV-AR"
 
 
-##   Our Team
+## Our Team
 ##### 1. [Deepak Chaturvedi](https://github.com/thedeepakchaturvedi)
 ##### 2. [Kartik Gupta](https://github.com/thisiskartikgupta)
 ##### 3. [Ritik Nandan Gupta](https://github.com/Ritik565)
