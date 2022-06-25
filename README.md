@@ -10,7 +10,7 @@
 ## How We built it
 
 
-### Our Team built NAV-AR using  :
+## Our Team built NAV-AR using  :
 
 
 ## Challenges We ran into
