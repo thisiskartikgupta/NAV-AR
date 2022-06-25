@@ -14,7 +14,7 @@
 ## Installation Instructions :
 ##### [For detailed instructions.. click here](https://github.com/thisiskartikgupta/NAV-AR/blob/main/INSTRUCTIONS_TO_ACCESS.md)
 
-### Our Team built NAV-AR using  :
+## Our Team built NAV-AR using  :
 <ul>
   <li> <b>Unity</b> </li>
   <li> <b>Google ARCore </b> </li>
