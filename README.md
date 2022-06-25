@@ -32,7 +32,7 @@
 ## What we learned
 ###### Implementing Augmented Reality, A* Pathfinding algo for, baking navmesh and had a great experience.
 
-## What's next for "NAV-AR"
+## What's next for 
 ###### Making it more cloud dependent so that the user can download the map from the database to navigate.
 
 
