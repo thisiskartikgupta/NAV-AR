@@ -1,4 +1,5 @@
  a mobile application that delivers highly accurate indoor mapping and navigation using Augmented Reality built on the principles of SLAM.
+  and aage kla sochte hai
  
 ##   Our Team
 ##### 1. [Deepak Chaturvedi](https://github.com/thedeepakchaturvedi)
